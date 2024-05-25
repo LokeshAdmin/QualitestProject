@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace RevereseString
+namespace ReverseString
 {
     internal class Program
     {
