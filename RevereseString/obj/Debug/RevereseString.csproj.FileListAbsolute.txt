@@ -1,0 +1,7 @@
+C:\Users\lokesh\source\repos\RevereseString\RevereseString\obj\Debug\RevereseString.csproj.AssemblyReference.cache
+C:\Users\lokesh\source\repos\RevereseString\RevereseString\obj\Debug\RevereseString.csproj.CoreCompileInputs.cache
+C:\Users\lokesh\source\repos\RevereseString\RevereseString\bin\Debug\RevereseString.exe.config
+C:\Users\lokesh\source\repos\RevereseString\RevereseString\bin\Debug\RevereseString.exe
+C:\Users\lokesh\source\repos\RevereseString\RevereseString\bin\Debug\RevereseString.pdb
+C:\Users\lokesh\source\repos\RevereseString\RevereseString\obj\Debug\RevereseString.exe
+C:\Users\lokesh\source\repos\RevereseString\RevereseString\obj\Debug\RevereseString.pdb
